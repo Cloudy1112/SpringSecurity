@@ -112,9 +112,8 @@
 
 		<dependency>
 			<groupId>org.springframework.security</groupId>
-			/-strong/-heart:>:o:-((:-h <artifactId>spring-security-test</artifactId>
-			<scope>
-			test</scope>
+			<artifactId>spring-security-test</artifactId>
+			<scope>test</scope>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-api -->
